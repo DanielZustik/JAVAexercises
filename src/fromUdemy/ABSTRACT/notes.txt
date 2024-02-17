@@ -1,0 +1,7 @@
+obecne produkty k prodeji
+konkretni dva art a furniture
+
+obchod, obsahujici main funkci,
+ve ktere se vytvori konkretni produkty storu,
+dale se vytvori objednavka. ta vyzije zjednodusene classy recordu, obsahujic mnozstvi a
+
